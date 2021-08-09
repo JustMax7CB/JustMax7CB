@@ -6,7 +6,7 @@
 
 
 ### Contact me at:
-[<img align="left" width="22px" alt ="https://www.linkedin.com/in/maximshapira/" src="https://www.linkedin.com/in/maximshapira/" />][https://www.linkedin.com/in/maximshapira/]
+[<img align="left" width="22px" alt ="https://www.linkedin.com/in/maximshapira/" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][https://www.linkedin.com/in/maximshapira/]
  
  <br/>
 <!--
