@@ -8,7 +8,7 @@
 ### Contact me at:
 <a href="https://www.linkedin.com/in/maximshapira/">
          <img alt="LinkedIn" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png"
-         width=20" height="20">
+         width=30" height="30">
       </a>
  
  <br/>
