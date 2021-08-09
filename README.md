@@ -6,8 +6,10 @@
 
 
 ### Contact me at:
-<img align="left" alt="https://www.linkedin.com/in/maximshapira/" width="22px"  src="https://www.nicepng.com/png/full/461-4616944_linkedin-logo-png-linked-in-icon-svg.png" />
-
+<a href="https://www.linkedin.com/in/maximshapira/">
+         <img alt="LinkedIn" src="https://www.nicepng.com/png/full/461-4616944_linkedin-logo-png-linked-in-icon-svg.png"
+         width=20" height="20">
+      </a>
  
  <br/>
 <!--
