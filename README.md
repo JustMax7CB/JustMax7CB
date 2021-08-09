@@ -6,7 +6,7 @@
 
 
 ### Contact me at:
-<img align="left" width="22px" alt ="https://www.linkedin.com/in/maximshapira/" src="https://www.nicepng.com/png/full/461-4616944_linkedin-logo-png-linked-in-icon-svg.png" />
+[<img align="left" width="22px" alt ="https://www.linkedin.com/in/maximshapira/" src="https://www.nicepng.com/png/full/461-4616944_linkedin-logo-png-linked-in-icon-svg.png" />][https://www.linkedin.com/in/maximshapira/]
 
 <!--
 **JustMax7CB/JustMax7CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
