@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--
 **JustMax7CB/JustMax7CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
