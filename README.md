@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Max👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+## I'm a Software programming student at the 3rd year 💻, and a Gamer 🎮
+- I'm working on pyCharm, Eclipse, Visual Studio and Visual Code
+- I'm currenlty learning everything i can, but specificly Javascript and Kivy
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustMax7CB&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+### Contact me at:
+<img align="left" width="22px" alt ="https://www.linkedin.com/in/maximshapira/" src="https://www.nicepng.com/png/full/461-4616944_linkedin-logo-png-linked-in-icon-svg.png" />
+
 <!--
 **JustMax7CB/JustMax7CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
