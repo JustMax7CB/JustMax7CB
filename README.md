@@ -7,7 +7,7 @@
 
 ### Contact me at:
 <a href="https://www.linkedin.com/in/maximshapira/">
-         <img alt="LinkedIn" src="https://www.pikpng.com/pngl/b/57-571884_100-linkedin-logo-latest-logo-icon-gif-round.png"
+         <img alt="LinkedIn" src="https://www.pngfind.com/pngs/m/57-571935_linkedin-icon-vector-png-linkedin-circle-logo-transparent.png"
          width=30" height="30">
       </a>
  <a href="https://www.facebook.com/MaxShap/">
