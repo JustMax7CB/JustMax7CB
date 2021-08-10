@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=JustMax7CB%color=blue)
+
 ### Hi there, I'm Max👋
 
 ## I'm a Software programming student at the 3rd year 💻, and a Gamer 🎮
