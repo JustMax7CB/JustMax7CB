@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=JustMax7CB%color=blue)
+![](https://komarev.com/ghpvc/?username=JustMax7CB&color=blue)
 
 ### Hi there, I'm Max👋
 
