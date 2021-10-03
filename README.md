@@ -5,7 +5,7 @@
 ## I'm a Software programming student at the 3rd year 💻, and a Gamer 🎮
 - I'm working on pyCharm, Eclipse, Visual Studio and Visual Code
 - I'm currenlty learning everything i can, but specificly Javascript and Kivy
-- Have a knowledge and experience with Object Oriented Programming (OOP) and data stractures
+- Have knowledge and experience with Object Oriented Programming (OOP) and data stractures
 
 
 ### Contact me at:
