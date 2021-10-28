@@ -8,7 +8,7 @@
 - Have knowledge and experience with Object Oriented Programming (OOP) and data stractures
 
 
-### Contact me at:
+#### Contact me at:
 <a href="https://www.linkedin.com/in/maximshapira/">
          <img alt="LinkedIn" src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png"
          width=30" height="30">
