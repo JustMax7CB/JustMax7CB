@@ -2,7 +2,8 @@
 
 ### Hi there, I'm Max👋
 
-## I'm a Software programming student at the 3rd year 💻, and a Gamer 🎮
+## I'm a Software programming student at the 3rd year 💻
+## and a Gamer 🎮
 - I'm working on pyCharm, Eclipse, Visual Studio and Visual Code
 - I'm currenlty learning everything i can, but specificly Javascript and Kivy
 - Have knowledge and experience with Object Oriented Programming (OOP) and data stractures
