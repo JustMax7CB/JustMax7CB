@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Max👋
 
-## I'm a 3rd year software programming engineering at Sami Shamoon College of Engineering 💻
+## I'm a 4th year software programming engineering at Sami Shamoon College of Engineering 💻
 - I'm working with Visual Studio Code, Git Bash and more...
 - I'm currently learning everything i can, but specificly Flutter
 - Have knowledge and experience with Object Oriented Programming (OOP) and data stractures
