@@ -26,6 +26,7 @@
 <a href="https://github.com"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px"/></a>
 <a href="https://www.python.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="26px"/></a>
 <a href="https://git-scm.com"> <img src="https://hasura.io/blog/content/images/downloaded_images/setting-up-git-bash-for-windows-e26b59e44257/1-Je4yF-xdHEluVvmS0qw8JQ.png" width="26px"/></a>
+<a href="https://flutter.dev"> <img src="https://www.pinpng.com/pngs/m/144-1442282_recently-i-published-a-story-on-recreating-the.png" width="26px"/></a>
 <br/>
 <!--
 **JustMax7CB/JustMax7CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
