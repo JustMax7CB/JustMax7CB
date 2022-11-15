@@ -8,6 +8,11 @@
 - Have knowledge and experience with Object Oriented Programming (OOP) and data stractures
 
 
+### You can always find me here 
+[![LinkedIn](https://github.com/StavRabinovich/StavRabinovich/blob/main/icons/linkedin32.png)](https://www.linkedin.com/in/maximshapira/) &nbsp;
+[![Email](https://github.com/StavRabinovich/StavRabinovich/blob/main/icons/gmail32.png)](mailto:itsjustmax9@gmail.com) &nbsp;
+[![Facebook](https://github.com/StavRabinovich/StavRabinovich/blob/main/icons/facebook32.png)](https://www.facebook.com/MaxShap/)
+
  
  ## Skills & Technologies
 | | |
