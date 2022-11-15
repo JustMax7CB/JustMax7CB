@@ -19,7 +19,7 @@
 |---|---|
 | **Languages**	|   ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart) &nbsp;![Python](https://img.shields.io/badge/-Python-000?&logo=Python) &nbsp; ![C](https://img.shields.io/badge/-C-000?&logo=C) &nbsp; ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) &nbsp; 
 | **Subjects**	| ![Object-Oriented Programming (OOP)](https://img.shields.io/badge/-Object--Oriented%20Programming%20-black) &nbsp; 
-| **Technologies**	|![](https://img.shields.io/badge/-Flutter-black?logo=Flutter&style=flat-square)  &nbsp; |
+| **Technologies**	|![](https://img.shields.io/badge/-Flutter-black?logo=Flutter&style=flat-square)  &nbsp; ![](https://img.shields.io/badge/-Firebase-black?logo=Firebase&style=flat-square)  &nbsp; |
 | **Enviroments** | ![](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudio&style=flat-square)  &nbsp;  ![](https://img.shields.io/badge/-PyCharm-black?logo=pycharm&style=flat-square)  &nbsp; ![](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square) &nbsp;  |
 <!--
 **JustMax7CB/JustMax7CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
