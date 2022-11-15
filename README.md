@@ -23,7 +23,7 @@
 | **Enviroments** | ![](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudio&style=flat-square)  &nbsp;  ![](https://img.shields.io/badge/-PyCharm-black?logo=pycharm&style=flat-square)  &nbsp; ![](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square) &nbsp;  |
 
 ## Certificates
-![](https://udemy-certificate.s3.amazonaws.com/image/UC-257e7545-310a-4445-86a8-3ea462a8835a.jpg?v=1667768707000)
+![](https://udemy-certificate.s3.amazonaws.com/image/UC-257e7545-310a-4445-86a8-3ea462a8835a.jpg?v=1667768707000 | width=100)
 <!--
 **JustMax7CB/JustMax7CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
