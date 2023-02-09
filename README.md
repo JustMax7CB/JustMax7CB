@@ -26,7 +26,7 @@
 ## Certificates
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-257e7545-310a-4445-86a8-3ea462a8835a.jpg" width='350'>
 
-![snake gif](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **JustMax7CB/JustMax7CB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
