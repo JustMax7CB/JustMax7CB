@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 -->
 
 
-![snake gif](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.gif)
