@@ -28,9 +28,7 @@
 
 ![snake gif](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.svg)
 
-![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=JustMax7CB&show_icons=true&theme=radical)
-
-![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=JustMax7CB&show_icons=true&theme=radical)
+![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=JustMax7CB&show_icons=true&theme=radical) ![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=JustMax7CB&show_icons=true&theme=radical)
 
 
 
