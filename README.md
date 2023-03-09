@@ -3,9 +3,9 @@
 ### Hi there, I'm Max👋
 
 ## I'm a 4th year software programming engineering at Sami Shamoon College of Engineering 💻
-- I'm a Flutter Developer, currently enrolled in a Riverpod 2.0 course
+- I'm a Flutter Developer, currently enrolled in a Riverpod 2.0 course on Udemy
 - Also, enrolled in a Fullstack Development course
-- Working with Visual Studio Code, Git Bash and more...
+- Using Visual Studio Code, Git (Bash) and more...
 - Have knowledge and experience with Object Oriented Programming (OOP) and data stractures
 
 
