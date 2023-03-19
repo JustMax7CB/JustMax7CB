@@ -27,9 +27,9 @@
 ## Certificates
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-257e7545-310a-4445-86a8-3ea462a8835a.jpg" width='350'>
 
-![snake gif](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.svg)
-
 ![GitProfile-Stats](https://github-readme-stats.vercel.app/api/top-langs?username=JustMax7CB&show_icons=true&theme=radical) ![GitProfile-Stats](https://github-readme-stats.vercel.app/api?username=JustMax7CB&show_icons=true&theme=radical) 
+
+![snake gif](https://github.com/JustMax7CB/JustMax7CB/blob/output/github-contribution-grid-snake.svg)
 
 
 
