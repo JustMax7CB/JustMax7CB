@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img src=”https://i.postimg.cc/3RZVNs8q/1632265093435.jpg" alt=”my banner”>
+<img src=”https://i.postimg.cc/3RZVNs8q/1632265093435.jpg" alt=”my banner” />
 
 </p>
 
