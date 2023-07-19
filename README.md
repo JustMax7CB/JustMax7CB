@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img src=”https://i.postimg.cc/3RZVNs8q/1632265093435.jpg" alt=”my banner” />
-
-</p>
+[1632265093435.jpg](https://postimg.cc/cgrX5587)
 
 ## I'm a 4th year software programming engineering at Sami Shamoon College of Engineering 💻
 - I'm a Flutter Developer, currently enrolled in a Riverpod 2.0 course on Udemy
