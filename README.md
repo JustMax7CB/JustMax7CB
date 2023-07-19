@@ -1,6 +1,8 @@
-![](https://komarev.com/ghpvc/?username=JustMax7CB&color=blue&style=plastic)
+<p align=”center”>
 
-### Hi there, I'm Max👋
+<img src=”https://i.postimg.cc/3RZVNs8q/1632265093435.jpg" alt=”my banner”>
+
+</p>
 
 ## I'm a 4th year software programming engineering at Sami Shamoon College of Engineering 💻
 - I'm a Flutter Developer, currently enrolled in a Riverpod 2.0 course on Udemy
